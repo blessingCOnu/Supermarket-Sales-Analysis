@@ -39,6 +39,7 @@ impact on profit.
 
  ## Files
  - 01 [`Raw Dataset`](./01_raw_dataset.csv)
- - 02 [`Raw Dataset`](./01_raw_dataset.csv)
+ - 02 [`Datatype Standardization wit SQL`](./02_supermarket_datatype_standardization.sql)
+ - 03 [`Supermarket KPI Queries`](./03_supermarket_kpi_queries.sql)
 
 
