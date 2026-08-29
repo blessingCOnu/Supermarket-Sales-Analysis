@@ -38,7 +38,7 @@ impact on profit.
  All KPIs and aggregated tables were created in SQL first. See [`SUPERMARKET_QUERIES.SQL`](./supermarket_kpi_queries.sql).
 
  ## Files
- - 
-
+ - 01 [`Raw Dataset`](./01_raw_dataset.csv)
+ - 02 [`Raw Dataset`](./01_raw_dataset.csv)
 
 
