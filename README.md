@@ -2,7 +2,7 @@
 An interactive Egyptian sales dashboard built with Excel + SQL analyzing 3 months of supermarket sales, profit and other KPIs. Dataset downloaded from Kaggle.
 
 ![DASHBOARD SCREENSHOT](DASHBOARD_SCREENSHOT.PNG)
-
+Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales/data)
 # Key Insights
 - **Total Revenue**: EGP 322,966.75
 - **Total profit**: EGP 15,379.37
