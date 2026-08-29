@@ -27,7 +27,7 @@ through product bundling by 15%.
   - **Product_Line by Sales**
   - **Average Product Rating slicer**
  
-    ## Key Takeaways and Recommendations
+  ## Key Takeaways and Recommendations
     Based on the insights above:
     - 4.76% profit margin means costs and other expenses are eating deep into revenue. Small increases in pricing will have a huge
       impact on profit.
