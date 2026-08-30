@@ -1,7 +1,7 @@
 # Supermarket-Sales-Analysis
 An interactive Egyptian sales dashboard built with Excel + SQL analyzing 3 months of supermarket sales, profit and other KPIs. Dataset downloaded from Kaggle.
 
-![DASHBOARD SCREENSHOT](dashboard_screenshot.png)
+![DASHBOARD SCREENSHOT](05_dashboard_screenshot.png)
 Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales/data)
 
 ## Key Insights
