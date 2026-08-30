@@ -30,7 +30,7 @@ through product bundling by 15%.
  
 ## Key Takeaways and Recommendations
   Based on the insights above:
-  - 4.76% profit margin means costs and other expenses are eating deep into revenue. Small increases in pricing will have a huge
+  - A 4.76% profit margin means costs and other expenses are eating deep into revenue. Small increases in pricing will have a huge
 impact on profit.
   - An Average Order Value (AOV) of EGP 322.97 suggests mostly small, individual purchases. Implementing bundling of complementary products will increase revenue.
   - With Food and Beverages topping sales and profit, increasing budget allocation for this product_line would see revenue soar.
