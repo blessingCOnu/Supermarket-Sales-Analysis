@@ -13,6 +13,7 @@ Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/fare
 a huge impact on profit.
 - **Average Order Value**: EGP 322.97 AOV suggests mostly small, individual purchases. Raising AOV by just 50 EGP would increase revenue
 through product bundling by 15%.
+- Top Branch: Giza
 - **Top Month**: January 2020 with EGP 116,291.87 in sales.
 
 ## Tools and Skills Used
