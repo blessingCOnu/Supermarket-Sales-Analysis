@@ -40,7 +40,7 @@ impact on profit.
 
  ## Files
  - 01 [`Raw Dataset`](./01_raw_dataset.csv)
- - 02 [`Datatype Standardization wit SQL`](./02_supermarket_datatype_standardization.sql)
+ - 02 [`Datatype Standardization with SQL`](./02_supermarket_datatype_standardization.sql)
  - 03 [`Supermarket KPI Queries`](./03_supermarket_kpi_queries.sql)
  - 04 [`Sales Dashboard`](./04_supermarket_sales_dashboard.xlsx)
  - 05 [`Dashboard Screenshot`](./05_dashboard_screenshot.png)
